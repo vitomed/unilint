@@ -1,0 +1,2 @@
+[console_scripts]
+unilint = unilint.main:cli
